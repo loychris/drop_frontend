@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/react-transition-group": "^4.2.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "css-loader": "^3.4.2",
     "node-sass": "^4.14.1",
     "react": "^16.12.0",
